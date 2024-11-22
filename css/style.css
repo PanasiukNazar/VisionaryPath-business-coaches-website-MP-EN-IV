@@ -619,11 +619,7 @@ ul.dropdown-menu li {
     background: #fff;
     background: url('../images/bg/main-banner1.jpg') no-repeat 80% 50%;
     background-size: cover;
-    padding: 120px 0px;
     min-height: 800px;
-}
-.banner .block {
-    padding-top: 120px;
 }
 .banner .block h1 {
     font-size: 75px;
